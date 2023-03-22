@@ -81,26 +81,37 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
  </div>
 </div> 
 
-## 📊 My Github Stats 
-<!-- github status  -->
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-<div align="center" style="display: flex; gap:50px">   
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ritikve03&&show_icons=true&theme=light" align="center" style="width: 100%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ritikve03&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikve03&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+<img src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif" align="center" style="width: 100%" />
 
-</div>
-<div align="center" style="display: flex; ">
+</td></tr></table>  
+
+<table><tr><td valign="top" width="50%">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritikve03)](https://git.io/streak-stats)
+
+</td><td valign="top" width="50%">
+
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 100%" />
+</td></tr></table>  
+
+
+
+ <br/>
+
+
+<br/>  
+
+ ![Profile views counter](https://komarev.com/ghpvc/?username=Ritikve03&&style=flat-square) 
+<div align="center">
  
-<img src="https://streak-stats.demolab.com?user=Ritikve03&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
-
-</div>
-
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ritik Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ritikve03&theme=react-dark&hide_border=true" /></a>
-
-
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Ritikve03)](https://github.com/Ritikve03/github-profile-trophy)</div>
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
