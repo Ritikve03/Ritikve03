@@ -84,7 +84,7 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ritikve03&&show_icons=true&theme=light" align="center" style="width: 100%" />
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ritikve03&&show_icons=true&theme=light" align="center" style="width: 100%" /> -->
 
 </td><td valign="top" width="50%">
 
