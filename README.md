@@ -94,7 +94,7 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 
 <table><tr><td valign="top" width="50%">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritikve03)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritikve03)](https://git.io/streak-stats)
 
 </td><td valign="top" width="50%">
 
