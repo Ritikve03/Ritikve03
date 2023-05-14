@@ -89,7 +89,7 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 </td><td valign="top" width="50%">
 
 <img src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif" align="center" style="width: 100%" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritikve03)](https://git.io/streak-stats)
+
 </td></tr></table>  
 
 <table><tr><td valign="top" width="50%">
