@@ -26,7 +26,7 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 
 - 💬 ask me about anything, i am happy to help 
  
-- 💬 Have a look at my [Resume](https://drive.google.com/file/d/1ZqYnrx4kG9Faa6O8FotO6Nz7MVsUChut/view?usp=sharing) and [Portfolio](https://ritikve03.github.io/) 
+- 💬 Have a look at my [Resume](https://drive.google.com/file/d/1ro1kBv8mWb1WI1Bg_ETRKrh1RGlHA6Eg/view?usp=sharing) 
 
 
 <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif"> 
