@@ -109,9 +109,9 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 <br/>  
 
  ![Profile views counter](https://komarev.com/ghpvc/?username=Ritikve03&&style=flat-square) 
-<div align="center">
+<!-- <div align="center">
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=Ritikve03)](https://github.com/Ritikve03/github-profile-trophy)</div>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Ritikve03)](https://github.com/Ritikve03/github-profile-trophy)</div> -->
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
