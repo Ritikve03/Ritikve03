@@ -1,7 +1,7 @@
 
 
 
-# 📊 Data Analyst Portfolio
+# 📊 Data Analyst
 
 Welcome to my GitHub! I'm a **Data Analyst** passionate about turning data into actionable insights. This repository serves as a portfolio of my work—featuring real-world projects, data visualizations, and end-to-end analytics workflows using modern tools and techniques.
 
